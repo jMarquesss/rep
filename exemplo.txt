@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 isto e que e durinho amegos
+=======
+Ola amigos
+>>>>>>> parent of 4635805... segundo commit
