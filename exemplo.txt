@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Ola amigos lindos
-test
-=======
-Ola amigos
->>>>>>> parent of 4635805... segundo commit
+isto e que e durinho amegos
